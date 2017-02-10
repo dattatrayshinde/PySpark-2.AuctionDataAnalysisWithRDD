@@ -1,4 +1,4 @@
-# Auction Data Analysis
+# Auction Data Analysis with RDD
 
 auctiondata.csv provided here contains the data related to the actions of few items. Here we are trying to get answers of following questions by using spark -
 

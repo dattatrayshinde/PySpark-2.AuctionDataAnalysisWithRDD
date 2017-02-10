@@ -1,4 +1,4 @@
-# Auction Data Analysis
+# Auction Data Analysis with RDD
 
 auctiondata.csv provided here contains the data related to the actions of few items. Here we are trying to get answers of following questions by using spark -
 
@@ -13,3 +13,5 @@ auctiondata.csv provided here contains the data related to the actions of few it
 8. Across all auctioned items, what is the max number of bids?
 9. Across all auctioned items, what is the minimum of bids?
 10. What is the average bid?
+
+[Click here to see IPython Notebook](https://github.com/dattatrayshinde/PySpark-2.AuctionDataAnalysisWithRDD/blob/master/AuctionDataAnalysisWithRDD.ipynb)
